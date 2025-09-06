@@ -23,11 +23,11 @@ repository               : "hdai-lab/hdai-lab.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hang Dai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Utah State University"
   uri              : # URL
   email            : "none@example.org" 
 
