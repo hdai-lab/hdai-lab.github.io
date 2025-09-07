@@ -10,7 +10,7 @@
 main:
 
  - title: "Team"
-    url: /Team/
+    url: /team/
     
   - title: "Publications"
     url: /publications/
